@@ -1,3 +1,10 @@
+Hello,
+
+    This project is an app that showcases the use of different aspect of React. Enjoy and talk to you soon!
+    
+    Mario A.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
