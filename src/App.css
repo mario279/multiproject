@@ -2,11 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
+} */
+.logo {
+  font-size: 30px;
+  font-weight: bold;
 }
-
+#nav-top {
+  background-color: blue;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
